@@ -4,6 +4,8 @@ title: Folk Sequence
 description: "Companion essays for the Folk Sequence daily Bitwig music production series on YouTube."
 ---
 
+<div class="hero"><img src="/assets/banner.jpg" alt="Folk Sequence"></div>
+
 <p class="intro">Companion essays for the daily Folk Sequence sessions.</p>
 <p class="intro-sub">Screen recordings of music creation in Bitwig Studio — folktronica and folk songs built from scratch in continuous takes, no narration, no edits, no cuts. Each video ships with a long-form essay that traces a single idea from first principles. <a href="https://www.youtube.com/@FolkSequence" target="_blank" rel="noopener">Watch the series on YouTube →</a></p>
 
