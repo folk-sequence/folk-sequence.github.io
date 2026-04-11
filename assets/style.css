@@ -161,14 +161,7 @@ h1, h2, h3, h4 {
   gap: 1rem;
 }
 
-.episode-list li {
-  background: var(--surface-raised);
-  border: 1px solid var(--border);
-  border-radius: 0.5rem;
-  transition: border-color 0.15s;
-}
-
-.episode-list li:hover { border-color: rgba(232, 93, 4, 0.2); }
+.episode-list li { margin: 0; padding: 0; }
 
 .episode-list a {
   display: flex;
@@ -176,6 +169,15 @@ h1, h2, h3, h4 {
   gap: 1rem;
   padding: 1.25rem 1.5rem;
   color: var(--text);
+  background: var(--surface-raised);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.episode-list a:hover {
+  border-color: rgba(232, 93, 4, 0.25);
+  background: var(--surface-overlay);
 }
 
 .episode-list .ep-num {
