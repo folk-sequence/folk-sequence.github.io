@@ -87,7 +87,7 @@ html, body {
   overflow: hidden;
   background: var(--surface-raised);
   border: 1px solid var(--border);
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 6 / 1;
 }
 
 .hero img {
