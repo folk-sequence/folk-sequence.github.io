@@ -10,7 +10,7 @@ url: "https://folk-sequence.github.io"
 permalink: /:basename/
 
 youtube: "https://www.youtube.com/@FolkSequence"
-jalopy: "https://jalopy.music/folk-sequence"
+jalopy: "https://jalopy.music/artist/folk-sequence"
 
 markdown: kramdown
 kramdown:
