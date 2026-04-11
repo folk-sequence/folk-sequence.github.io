@@ -1,0 +1,24 @@
+title: Folk Sequence
+tagline: Companion essays for the Folk Sequence YouTube series
+description: >-
+  Long-form writing that accompanies the Folk Sequence daily music-production
+  series — folktronica and folk songs built in Bitwig Studio, recorded in
+  continuous takes with no narration, no edits, no cuts.
+author: Brian M Edwards
+url: "https://folk-sequence.github.io"
+
+permalink: /:basename/
+
+youtube: "https://www.youtube.com/@FolkSequence"
+jalopy: "https://jalopy.music/folk-sequence"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: ["apos","apos","quot","quot"]
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

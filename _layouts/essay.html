@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="essay">
+  <div class="essay-meta mono">
+    {% if page.episode %}Folk Sequence {{ page.episode }}{% endif %}
+    {% if page.topic %} · {{ page.topic }}{% endif %}
+  </div>
+  <h1 class="essay-title">{{ page.title }}</h1>
+  {% if page.youtube %}
+    <p class="essay-watch mono"><a href="{{ page.youtube }}" target="_blank" rel="noopener">Watch the session on YouTube →</a></p>
+  {% endif %}
+  <div class="essay-body">
+    {{ content }}
+  </div>
+  <hr class="essay-rule">
+  <nav class="essay-nav mono">
+    <a href="{{ '/' | relative_url }}">← All essays</a>
+    {% if page.youtube %}
+      <a href="{{ page.youtube }}" target="_blank" rel="noopener">YouTube ↗</a>
+    {% endif %}
+    <a href="{{ site.jalopy }}" target="_blank" rel="noopener">jalopy.music ↗</a>
+  </nav>
+</article>
