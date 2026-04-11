@@ -7,7 +7,8 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <div class="hero"><img src="/assets/banner.jpg" alt="Folk Sequence"></div>
 
 <p class="intro">Companion essays for the daily Folk Sequence sessions.</p>
-<p class="intro-sub">Screen recordings of music creation in Bitwig Studio — folktronica and folk songs built from scratch in continuous takes, no narration, no edits, no cuts. Each video ships with a long-form essay that traces a single idea from first principles. <a href="https://www.youtube.com/@FolkSequence" target="_blank" rel="noopener">Watch the series on YouTube →</a></p>
+<p class="intro-sub">Screen recordings of music creation in Bitwig Studio — folktronica and folk songs built from scratch in continuous takes, no narration, no edits, no cuts. Each video ships with a long-form essay that traces a single idea from first principles.</p>
+<p class="intro-watch"><a href="https://www.youtube.com/@FolkSequence" target="_blank" rel="noopener">Watch the series on YouTube →</a></p>
 
 <ul class="episode-list">
   <li><a href="/015-three-times/"><span class="ep-num">015</span><span class="ep-title">Three Times</span></a></li>
