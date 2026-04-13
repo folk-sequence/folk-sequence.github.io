@@ -4,6 +4,7 @@ title: "sample-dreamer: Re-sampling plugins into multisamples"
 episode: "016"
 topic: "Headless plugin sampling with sample-dreamer"
 description: "sample-dreamer: Re-sampling plugins into multisamples — companion essay for Folk Sequence 016"
+youtube: "https://youtu.be/Os-KsCimbfY"
 ---
 
 Most people think a plugin is a black box. You load it, you turn knobs, you get sound. The assumption is that the plugin itself is the instrument. But what if the plugin is just a rendering engine? What if the instrument is the audio it produces?
