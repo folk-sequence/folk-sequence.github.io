@@ -4,6 +4,7 @@ title: "The Architecture of the Piano Roll"
 episode: "017"
 topic: "note writing"
 description: "The Architecture of the Piano Roll — companion essay for Folk Sequence 017"
+youtube: "https://youtu.be/IAavVYPrBuM"
 ---
 
 The producer often reaches for the arpeggiator or the chord generator to solve the blank canvas. These tools offer immediate gratification, spinning out complex patterns and dense harmonies at the press of a single key. They are algorithms of convenience, designed to mask the terror of the empty measure. But true intention is not found in a generative preset. It is found in the deliberate placement of a single note. Writing directly into the piano roll forces a confrontation with the fundamental building blocks of music. It demands that the creator understand the function of each instrument, its physical range, and its role within the ensemble. The arpeggiator creates a wash of sound; the drawn note creates a specific, structural reality. With the project-wide key signature newly arrived in Bitwig Studio 6, locking a session into B-flat major is mathematically frictionless, yet taking the time to place each note manually retains the necessary human friction that automated step input devices so easily bypass.
