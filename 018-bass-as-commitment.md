@@ -4,6 +4,7 @@ title: "Bass as Commitment"
 episode: "018"
 topic: "bass presence"
 description: "Bass as Commitment — companion essay for Folk Sequence 018"
+youtube: "https://youtu.be/HbVhlf40kZ8"
 ---
 
 Most producers cut the bass. They do it early and often, pulling down frequencies below 80 or 100 hertz, rolling them off with high-pass filters set so high that the musical foundation of the mix disappears before anyone consciously notices. Ask a producer why and the answer comes quickly: muddy mixes, consumer speakers, the translation problem. These are real concerns. None of them justify what actually happens, which is that the bass gets sacrificed not for technical reasons but out of a kind of aesthetic cowardice.
