@@ -11,6 +11,10 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.youtube.com/@FolkSequence" target="_blank" rel="noopener">Watch the series on YouTube →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/019-the-pilot-melody/"><span class="ep-num">019</span><span class="ep-title">The Pilot Melody</span></a></li>
+  <li><a href="/018-bass-as-commitment/"><span class="ep-num">018</span><span class="ep-title">Bass as Commitment</span></a></li>
+  <li><a href="/017-the-architecture-of-the-piano-roll/"><span class="ep-num">017</span><span class="ep-title">The Architecture of the Piano Roll</span></a></li>
+  <li><a href="/016-sample-dreamer-re-sampling-plugins-into-multisamples/"><span class="ep-num">016</span><span class="ep-title">sample-dreamer: Re-sampling plugins into multisamples</span></a></li>
   <li><a href="/015-three-times/"><span class="ep-num">015</span><span class="ep-title">Three Times</span></a></li>
   <li><a href="/014-the-full-chord-is-raw-material/"><span class="ep-num">014</span><span class="ep-title">The full chord is raw material</span></a></li>
   <li><a href="/013-the-middle-section-problem/"><span class="ep-num">013</span><span class="ep-title">The middle section problem</span></a></li>
