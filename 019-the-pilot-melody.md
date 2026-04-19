@@ -4,6 +4,7 @@ title: "The Pilot Melody"
 episode: "019"
 topic: "fiddle variations"
 description: "The Pilot Melody — companion essay for Folk Sequence 019"
+youtube: "https://youtu.be/b8u2SbJlqtg"
 ---
 
 The melody in episode 019 starts with a single fiddle phrase in G Minor — four bars, simple enough to be memorable, specific enough to have a personality. From that phrase, three variations grew: different attacks, different rhythmic shapes, different ways of landing on the same notes. Four fiddle tracks total, each carrying one of those melodies. The arrangement runs them in a serial chain using mute automation, which means they do not appear simultaneously. They replace each other, one at a time, in a sequence that unfolds the harmonic space rather than filling it all at once.
