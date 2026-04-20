@@ -4,6 +4,7 @@ title: "Weight"
 episode: "020"
 topic: "Low End"
 description: "Weight — companion essay for Folk Sequence 020"
+youtube: "https://youtu.be/SVBjJZvQVhs"
 ---
 
 The reference track was Big Thief's "Shark Smile" and the thing that caught the ear was not the melody or the arrangement or any of the obvious things a producer is supposed to notice. It was the weight. Not the bass alone, not the kick drum alone, but the combined mass of everything sitting below two hundred hertz holding the entire recording together like bedrock. Most people hear a song and think about the top — the vocal, the hook, the thing you hum afterward. The top is what gets remembered. The bottom is what gets felt. The two are not the same thing and confusing them is how you end up with a mix that sounds fine on laptop speakers but collapses into nothing on anything with an actual driver.
