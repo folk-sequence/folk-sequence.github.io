@@ -4,6 +4,7 @@ title: "Key-Locked Chaos"
 episode: "021"
 topic: "Key-Locked Chaos"
 description: "Key-Locked Chaos — companion essay for Folk Sequence 021"
+youtube: "https://youtu.be/pRxOH3vtnhg"
 ---
 
 Every genre that matters started as a misuse. The turntable was built for playback until Kool Herc and Grandmaster Flash spun two copies of the same record and invented the breakbeat. The Roland TR-808 was a failed drum machine, too artificial for the studios it was designed for, until hip-hop producers turned its flaws into the foundational sound of a culture. Auto-Tune was engineered to correct pitch imperfections, but T-Pain and Cher ran it wide open and made the correction the feature. The through-line is obvious once you see it: innovation is not about using tools correctly. Innovation is about finding what the tool does wrong, or unexpected, or accidentally, and building a new language on top of that accident.
