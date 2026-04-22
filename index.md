@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/022-the-machine-plays-itself/"><span class="ep-num">022</span><span class="ep-title">The Machine Plays Itself</span></a></li>
   <li><a href="/021-key-locked-chaos/"><span class="ep-num">021</span><span class="ep-title">Key-Locked Chaos</span></a></li>
   <li><a href="/020-weight/"><span class="ep-num">020</span><span class="ep-title">Weight</span></a></li>
   <li><a href="/019-the-pilot-melody/"><span class="ep-num">019</span><span class="ep-title">The Pilot Melody</span></a></li>
