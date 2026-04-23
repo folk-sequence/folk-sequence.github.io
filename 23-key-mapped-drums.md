@@ -4,6 +4,7 @@ title: "Key-Mapped Drums"
 episode: "23"
 topic: "Key-mapped drums"
 description: "Key-Mapped Drums — companion essay for Folk Sequence 23"
+youtube: "https://youtu.be/wf_XI60fFFk"
 ---
 
 Folk Sequence 023 explores an idea I invented and rehearsed last night: take SugarBytes DrumComputer or any drum sequencer and use Bitwig 6's global key/scale feature to assign specific drum slots to pitched instruments. The bass plays along with the kick, the acoustic guitar with the snare, the banjo with the hat, and the mandolin comes in on fills. Pair that with an acoustic drum kit playing the same beat. I added an organ as a pad to provide a chord progression. I sidechained the kick to a compressor on the bass. I did a little tone shaping on the master track. It definitely produces a distinctive style, kind of heading towards EDM with acoustic instruments. The acoustic bass is convincing — very short bursty notes and it almost sounds EDM worthy.
