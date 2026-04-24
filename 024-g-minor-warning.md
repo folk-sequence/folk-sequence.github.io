@@ -4,6 +4,7 @@ title: "G Minor Warning"
 episode: "024"
 topic: "G minor fiddle warning"
 description: "G Minor Warning — companion essay for Folk Sequence 024"
+youtube: "https://youtu.be/ZgvXSTWboes"
 ---
 
 A haunting fiddle tune in G minor, warning of the perils of adult life when the government wages war as a market play. The violin is ever present in mid range, restrained.
