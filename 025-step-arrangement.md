@@ -4,6 +4,7 @@ title: "Step Arrangement"
 episode: "025"
 topic: "Step modulation arrangement"
 description: "Step Arrangement — companion essay for Folk Sequence 025"
+youtube: "https://youtu.be/nlRAoZMean4"
 ---
 
 The constraint reveals the technique. Fifteen minutes. One continuous take. No automation lanes. The question becomes: how much arrangement can happen when the only path forward is through modulation?
