@@ -13,6 +13,8 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/025-step-arrangement/"><span class="ep-num">025</span><span class="ep-title">Step Arrangement</span></a></li>
+  <li><a href="/024-g-minor-warning/"><span class="ep-num">024</span><span class="ep-title">G Minor Warning</span></a></li>
   <li><a href="/023-key-mapped-drums/"><span class="ep-num">023</span><span class="ep-title">Key-Mapped Drums</span></a></li>
   <li><a href="/022-the-machine-plays-itself/"><span class="ep-num">022</span><span class="ep-title">The Machine Plays Itself</span></a></li>
   <li><a href="/021-key-locked-chaos/"><span class="ep-num">021</span><span class="ep-title">Key-Locked Chaos</span></a></li>
