@@ -4,6 +4,7 @@ title: "Gate Loosening"
 episode: "026"
 topic: "Gate Loosening"
 description: "Gate Loosening — companion essay for Folk Sequence 026"
+youtube: "https://youtu.be/uiV-te2HL7M"
 ---
 
 Folk Sequence 026 — Gate Loosening
