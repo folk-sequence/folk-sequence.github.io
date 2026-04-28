@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/027-no-limits/"><span class="ep-num">027</span><span class="ep-title">No Limits</span></a></li>
   <li><a href="/026-gate-loosening/"><span class="ep-num">026</span><span class="ep-title">Gate Loosening</span></a></li>
   <li><a href="/025-step-arrangement/"><span class="ep-num">025</span><span class="ep-title">Step Arrangement</span></a></li>
   <li><a href="/024-g-minor-warning/"><span class="ep-num">024</span><span class="ep-title">G Minor Warning</span></a></li>
