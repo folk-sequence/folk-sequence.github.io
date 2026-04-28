@@ -4,6 +4,7 @@ title: "No Limits"
 episode: "027"
 topic: "Folktronica without constraints"
 description: "No Limits — companion essay for Folk Sequence 027"
+youtube: "https://youtu.be/eGeEUM6PgRA"
 ---
 
 This one pushed harder into folktronica territory than anything before it. The goal was specific: keep everything sounding real and acoustic while removing every constraint on what the instruments could actually do. The banjo sits distant but distinguishable in the mix. A couple of drone pads hold the harmonic space. The guitar and bass are insane — for me at least — running through filters and LFOs and modulation paths that would have felt like crazy talk six months ago.
