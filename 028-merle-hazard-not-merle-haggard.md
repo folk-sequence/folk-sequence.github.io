@@ -4,6 +4,7 @@ title: "Merle Hazard, Not Merle Haggard"
 episode: "028"
 topic: "Vocal arrangement and sidechain dynamics"
 description: "Merle Hazard, Not Merle Haggard — companion essay for Folk Sequence 028"
+youtube: "https://youtu.be/FJ4E-H1pmCU"
 ---
 
 The lyrics came to me soon after I awoke this morning. That is the best kind of lyric — the kind that arrives fully formed, before the critical mind has a chance to intervene. Even though relationships cause us pain, it would be worse to live without them in my life. Many people live that way. They build walls instead of bridges. They choose safety over connection. The song is about refusing that choice.
