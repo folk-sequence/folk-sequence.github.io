@@ -4,6 +4,7 @@ title: "Ooo What a Rush"
 episode: "029"
 topic: "Bluegrass via Rube Goldberg MIDI routing"
 description: "Ooo What a Rush — companion essay for Folk Sequence 029"
+youtube: "https://youtu.be/mOvf35S7ts0"
 ---
 
 Ooo what a rush! So much work. Never sure I was going to pull it together in fifteen minutes.
