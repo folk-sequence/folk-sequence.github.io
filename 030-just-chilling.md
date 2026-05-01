@@ -4,6 +4,7 @@ title: "Just Chilling"
 episode: "030"
 topic: "Mandolin chop vs chug, consolidating technique"
 description: "Just Chilling — companion essay for Folk Sequence 030"
+youtube: "https://youtu.be/daxhCnvq5f4"
 ---
 
 Just chilling today. Taking it easy on myself. Using the things I know best.
