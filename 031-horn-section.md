@@ -6,6 +6,14 @@ topic: "Bringing brass into electronic folk"
 description: "Horn Section — companion essay for Folk Sequence 031"
 ---
 
+---
+layout: essay
+title: "Horn Section"
+episode: "031"
+topic: "Bringing brass into electronic folk"
+description: "Horn Section — companion essay for Folk Sequence 031"
+---
+
 Horns in folk music feel wrong at first. They are too loud, too brash, too urban. But that is exactly why they work.
 
 I wanted to understand what a horn section actually does in an arrangement, not just what it sounds like. The answer is simpler than most people think: horns provide weight without density. They can occupy more sonic space than strings or keyboards while remaining less cluttered, because their harmonies are usually locked to root-fifth-octave patterns with occasional sevenths. A three-note brass chord punches through a mix harder than a seven-note string voicing.
