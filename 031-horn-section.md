@@ -4,6 +4,7 @@ title: "Horn Section"
 episode: "031"
 topic: "Bringing brass into electronic folk"
 description: "Horn Section — companion essay for Folk Sequence 031"
+youtube: "https://youtu.be/O4K2utRg23w"
 ---
 
 ---
