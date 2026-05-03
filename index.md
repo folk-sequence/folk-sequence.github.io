@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/031-horn-section/"><span class="ep-num">031</span><span class="ep-title">Horn Section</span></a></li>
   <li><a href="/030-just-chilling/"><span class="ep-num">030</span><span class="ep-title">Just Chilling</span></a></li>
   <li><a href="/029-ooo-what-a-rush/"><span class="ep-num">029</span><span class="ep-title">Ooo What a Rush</span></a></li>
   <li><a href="/028-merle-hazard-not-merle-haggard/"><span class="ep-num">028</span><span class="ep-title">Merle Hazard, Not Merle Haggard</span></a></li>
