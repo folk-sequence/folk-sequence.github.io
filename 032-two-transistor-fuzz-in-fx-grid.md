@@ -4,6 +4,7 @@ title: "Two Transistor Fuzz in FX Grid"
 episode: "032"
 topic: "Two transistor fuzz"
 description: "Two Transistor Fuzz in FX Grid — companion essay for Folk Sequence 032"
+youtube: "https://youtu.be/uNTAsyq4s6w"
 ---
 
 Fuzz is the oldest distortion in the book. The first fuzz pedals were accidents—broken equipment that sounded good enough to keep. The Maestro Fuzz-Tone from 1962 used three transistors. The Fuzz Face that followed used four. But the core idea is simpler than those circuits suggest. A transistor pushed past its linear region clips the signal. Hard clipping creates harmonics. Enough harmonics create fuzz.
