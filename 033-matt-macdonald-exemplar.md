@@ -4,7 +4,7 @@ title: "Matt MacDonald, Exemplar"
 episode: "033"
 topic: "Fifteen years of open mic hosting"
 description: "Matt MacDonald, Exemplar — companion essay for Folk Sequence 033"
-youtube: "https://youtu.be/mWsEPJu5XZw"
+youtube: "https://youtu.be/8XGyi9RRtBs"
 ---
 
 Fifteen years. That is how long Matt MacDonald has been holding down an open mic in Austin. Not a flash-in-the-pan residency that lasts a few months. Not a trendy gig at a hot new venue that closes within a year. Fifteen years of showing up, week after week, creating a space where other musicians can take the stage.
