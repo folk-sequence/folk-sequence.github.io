@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/034-pure-sine/"><span class="ep-num">034</span><span class="ep-title">Pure Sine</span></a></li>
   <li><a href="/033-matt-macdonald-exemplar/"><span class="ep-num">033</span><span class="ep-title">Matt MacDonald, Exemplar</span></a></li>
   <li><a href="/032-two-transistor-fuzz-in-fx-grid/"><span class="ep-num">032</span><span class="ep-title">Two Transistor Fuzz in FX Grid</span></a></li>
   <li><a href="/031-horn-section/"><span class="ep-num">031</span><span class="ep-title">Horn Section</span></a></li>
