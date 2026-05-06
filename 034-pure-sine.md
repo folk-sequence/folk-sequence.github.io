@@ -4,6 +4,7 @@ title: "Pure Sine"
 episode: "034"
 topic: "Sine wave synthesis and distortion"
 description: "Pure Sine — companion essay for Folk Sequence 034"
+youtube: "https://youtu.be/CpH_i9en-mw"
 ---
 
 A sine wave is the simplest sound. One frequency. No harmonics. No overtones. Just a single oscillation, pure and clean. It is the building block of all sound — every complex wave can be decomposed into sine waves — but as a starting point for music, it is almost nothing. A beep. A boop. A tone so pure it feels empty.
