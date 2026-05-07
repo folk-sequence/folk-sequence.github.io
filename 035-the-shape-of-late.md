@@ -4,6 +4,7 @@ title: "The Shape of Late"
 episode: "035"
 topic: "Note Repeats, Quantize, and the forgiveness of timing"
 description: "The Shape of Late — companion essay for Folk Sequence 035"
+youtube: "https://youtu.be/HXcmclz_sBc"
 ---
 
 There is a concept in music production called quantization, and it deserves more scrutiny than it gets. The word comes from physics — to quantize is to constrain something continuous into discrete steps. In music, it means snapping notes to a rhythmic grid. The grid is the clock. The notes are the human. Quantization is the act of making the human obey the clock.
