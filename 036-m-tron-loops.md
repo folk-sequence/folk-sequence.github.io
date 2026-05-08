@@ -4,6 +4,7 @@ title: "M-Tron Loops"
 episode: "036"
 topic: "M-Tron Loops"
 description: "M-Tron Loops — companion essay for Folk Sequence 036"
+youtube: "https://youtu.be/JapTbWv55Ys"
 ---
 
 The M-Tron mellotron sample library has a peculiar property that rewards close attention. The loops it ships with are not mere decorative flourishes. They follow pitch. Press a key and the loop transposes to that note. This behavior unlocks a compositional approach where the loop itself becomes the harmonic foundation rather than a static texture layered on top.
