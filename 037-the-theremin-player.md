@@ -4,6 +4,7 @@ title: "The Theremin Player"
 episode: "037"
 topic: "Maggie Gyllenhaal and Frank"
 description: "The Theremin Player — companion essay for Folk Sequence 037"
+youtube: "https://youtu.be/mXJ5voTEwPI"
 ---
 
 It all goes back to Maggie Gyllenhaal. Not the folktronica sessions, not the daily discipline of showing up to the studio, but the deeper question of what it means to commit to a sound you have never made before. In the 2014 film Frank, Gyllenhaal plays Clara, the theremin player in an avant-garde band led by a masked genius. She initially turned down the role. The script made no sense to her on first read. But something about it stuck, and weeks later she called back and said yes. Then she actually learned to play the theremin.
