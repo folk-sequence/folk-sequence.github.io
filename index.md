@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/037-the-theremin-player/"><span class="ep-num">037</span><span class="ep-title">The Theremin Player</span></a></li>
   <li><a href="/036-m-tron-loops/"><span class="ep-num">036</span><span class="ep-title">M-Tron Loops</span></a></li>
   <li><a href="/035-the-shape-of-late/"><span class="ep-num">035</span><span class="ep-title">The Shape of Late</span></a></li>
   <li><a href="/034-pure-sine/"><span class="ep-num">034</span><span class="ep-title">Pure Sine</span></a></li>
