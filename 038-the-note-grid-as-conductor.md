@@ -4,6 +4,7 @@ title: "The Note Grid as Conductor"
 episode: "038"
 topic: "Note Grid key switching and conditional transposition"
 description: "The Note Grid as Conductor — companion essay for Folk Sequence 038"
+youtube: "https://youtu.be/uX1R6_q2mB4"
 ---
 
 This episode uses the Note Grid as the central routing hub for an entire arrangement. The concept is simple: one device decides what gets played, when, and at what pitch. Everything else listens.
