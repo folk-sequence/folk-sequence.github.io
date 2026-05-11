@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/039-layering/"><span class="ep-num">039</span><span class="ep-title">Layering</span></a></li>
   <li><a href="/038-the-note-grid-as-conductor/"><span class="ep-num">038</span><span class="ep-title">The Note Grid as Conductor</span></a></li>
   <li><a href="/037-the-theremin-player/"><span class="ep-num">037</span><span class="ep-title">The Theremin Player</span></a></li>
   <li><a href="/036-m-tron-loops/"><span class="ep-num">036</span><span class="ep-title">M-Tron Loops</span></a></li>
