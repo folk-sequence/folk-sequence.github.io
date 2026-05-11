@@ -4,6 +4,7 @@ title: "Layering"
 episode: "039"
 topic: "Layering"
 description: "Layering — companion essay for Folk Sequence 039"
+youtube: "https://youtu.be/Tva9wpK3lGQ"
 ---
 
 Folk Sequence 039 — Layering
