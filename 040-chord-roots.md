@@ -4,6 +4,7 @@ title: "Chord Roots"
 episode: "040"
 topic: "Chord Roots plugin beta"
 description: "Chord Roots — companion essay for Folk Sequence 040"
+youtube: "https://youtu.be/udGhqGwPbuw"
 ---
 
 This episode is the first public use of a plugin I am building called Chord Roots. The plugin solves a problem that has bothered me since I started recording: the gap between the hand on an instrument and the MIDI grid in the DAW.
