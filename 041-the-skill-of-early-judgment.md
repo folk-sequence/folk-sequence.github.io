@@ -4,6 +4,7 @@ title: "The Skill of Early Judgment"
 episode: "041"
 topic: "Hearing potential in ugly sounds"
 description: "The Skill of Early Judgment — companion essay for Folk Sequence 041"
+youtube: "https://youtu.be/dCBRbM2heAs"
 ---
 
 I have always been cautious about calling myself a musician or composer or producer or mixer. Those titles feel like they belong to people who can sustain a full performance, who can hold a room for an hour without the anxiety becoming visible. I am comfortable with songwriter, lyricist, even to some extent vocal performer, and I know enough guitar—mainly hitting the one beat reliably—to make for a compelling one person show. But I like to keep it at a couple of songs. That gives me a serious rush, a glow. Longer performances, while exhilarating, have also been taxing, draining and anxiety-ridden. So I control my dosage.
