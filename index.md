@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/041-the-skill-of-early-judgment/"><span class="ep-num">041</span><span class="ep-title">The Skill of Early Judgment</span></a></li>
   <li><a href="/040-chord-roots/"><span class="ep-num">040</span><span class="ep-title">Chord Roots</span></a></li>
   <li><a href="/039-layering/"><span class="ep-num">039</span><span class="ep-title">Layering</span></a></li>
   <li><a href="/038-the-note-grid-as-conductor/"><span class="ep-num">038</span><span class="ep-title">The Note Grid as Conductor</span></a></li>
