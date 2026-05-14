@@ -4,6 +4,7 @@ title: "Baton Rouge"
 episode: "042"
 topic: "Responsibility and absence on a Louisiana highway"
 description: "Baton Rouge — companion essay for Folk Sequence 042"
+youtube: "https://youtu.be/QCxyjXMEFrg"
 ---
 
 The interstate stretches flat and endless through Louisiana, a gray ribbon cutting through green swamp and brown water. You drive it with your foot heavy on the gas, knowing that every mile brings you closer to something you cannot fix and farther from everything you have left behind. Baton Rouge sits at the end of that road like a reckoning.
