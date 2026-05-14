@@ -4,6 +4,7 @@ title: "Weighted Random"
 episode: "043"
 topic: "Weighted random chord progressions via Steps modulator"
 description: "Weighted Random — companion essay for Folk Sequence 043"
+youtube: "https://youtu.be/Qyd4No0icfY"
 ---
 
 The Steps modulator in Bitwig is not a sequencer. It is a random number generator with memory. Eight slots, each holding a value between zero and one, cycled through in order or shuffled or walked or jumped. The randomness is the point. The memory is the constraint.
