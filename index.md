@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/045-freeze-and-slice/"><span class="ep-num">045</span><span class="ep-title">Freeze and Slice</span></a></li>
   <li><a href="/044-the-recurring-figure/"><span class="ep-num">044</span><span class="ep-title">The Recurring Figure</span></a></li>
   <li><a href="/043-weighted-random/"><span class="ep-num">043</span><span class="ep-title">Weighted Random</span></a></li>
   <li><a href="/042-baton-rouge/"><span class="ep-num">042</span><span class="ep-title">Baton Rouge</span></a></li>
