@@ -4,6 +4,7 @@ title: "The Recurring Figure"
 episode: "044"
 topic: "the recurring figure"
 description: "The Recurring Figure — companion essay for Folk Sequence 044"
+youtube: "https://youtu.be/gtDurVH6acA"
 ---
 
 There is a moment, somewhere around the fortieth time you have made something in the same way, when you stop recognizing your own habits. The gesture that once felt like a decision becomes something closer to gravity. You reach for the same bass note, the same inversion, the same rhythmic pocket, not because you have reasoned your way there but because your hands have been there enough times that going elsewhere feels wrong. This is not repetition in the pejorative sense. This is the formation of a style.
