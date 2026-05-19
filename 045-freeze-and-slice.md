@@ -7,7 +7,7 @@ description: "Freeze and Slice — companion essay for Folk Sequence 045"
 youtube: "https://youtu.be/bAb1ys-NzeA"
 ---
 
-It all started when I realized that as I was buying my stockpile of pedals I left off almost all of the typical ones. I guess the only typical one I have is the green overdrive pedal. But in all the mix of gear in my boxes I have no delay pedal. And I want delay. So the best idea I came up with was an Electro Harmonix Freeze or Deep Freeze or whatever it is and a Boss SL-2 Slicer. But I didn't want to drag all those out and plug them in. I wanted a proof of concept in software so it would only take eight hours to figure this out instead of eight days.
+It all started when I realized that as I was buying my stockpile of pedals I left off almost all of the typical ones. I guess the only typical one I have is the green overdrive pedal. But in all the mix of gear in my boxes I have no delay pedal. And I want delay. So the best idea I came up with was an Electro Harmonix Freeze or Deep Freeze or whatever it is and a Boss SL-2 Slicer. But I didn't want to drag all those out and plug them in. I wanted a proof of concept in software so it would only take eight hours to figure this out instead of eight minutes.
 
 I am happy to report that I learned a lot about how both pedals work, what they are actually doing, why the Slicer has attack and decay knobs and what those are doing internally. The Freeze pedal, it turns out, is not a delay in the conventional sense. It is a buffer holder. It captures audio and holds it indefinitely at unity gain, creating a sustained pad from whatever you feed it. The Slicer is a rhythmic volume gate, chopping the signal according to preset patterns synced to tempo.
 
