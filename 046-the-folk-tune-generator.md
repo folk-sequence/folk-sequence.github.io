@@ -4,7 +4,7 @@ title: "The Folk Tune Generator"
 episode: "046"
 topic: "Stepwise + Note Grid + automated key/scale"
 description: "The Folk Tune Generator — companion essay for Folk Sequence 046"
-youtube: "https://youtu.be/iMZMsOXQGmc"
+youtube: "https://youtu.be/zFab-jz-Z8A"
 ---
 
 There is a fork in the road every time you sit down to write a song. One way leads to writing a song. The other way leads to writing a thing that writes songs. The first path is the honest path of the songwriter, the one who knows that a particular arrangement of bass notes against a particular root motion against a particular three-chord turn is the song itself and cannot be derived from anywhere else. The second path is the path of the instrument builder. You stop trying to find the right notes and start trying to build a machine that has the right notes already inside it, waiting to be shaken out. Most people are taught that the first path is real music and the second is a toy. I think that is backwards. Or at least I think the distinction is not nearly as clean as the teaching implies, because every fiddle tune that ever survived a hundred years did so by being a generator more than a composition.
