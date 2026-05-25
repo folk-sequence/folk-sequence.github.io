@@ -4,6 +4,7 @@ title: "Twelve Names for a Thing That Slides"
 episode: "048"
 topic: "Scaler 3 and pedal steel"
 description: "Twelve Names for a Thing That Slides — companion essay for Folk Sequence 048"
+youtube: "https://youtu.be/8BgxuIokl6g"
 ---
 
 There is a machine now that knows every chord. It is called Scaler, and the third version of it arrived last spring rebuilt from the studs, and what it does is this: you give it a key, or a mood it labels Dark or Bright or Neutral, or a few notes you stumbled into, and it hands back the legal continuations, the chords that are permitted to follow, ranked and tagged and ready to drop onto a timeline beside lanes for bass and melody and arpeggiated motion. It will host other instruments inside itself now. It has, in effect, swallowed the rulebook of Western harmony and learned to recite it on demand, and it is very good, and using it feels a little like having a fluent and tireless theory tutor sitting at your shoulder who never tires of being asked the same question. I used it in this session. I also, in the same session, reached for a pedal steel, and the reason those two things sat next to each other on the same track is the reason for this essay, because they do not actually agree about what music is, and the disagreement is the most interesting thing in the room.
