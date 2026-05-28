@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/049-your-guitar-is-already-a-chord/"><span class="ep-num">049</span><span class="ep-title">Your Guitar Is Already a Chord</span></a></li>
   <li><a href="/048-twelve-names-for-a-thing-that-slides/"><span class="ep-num">048</span><span class="ep-title">Twelve Names for a Thing That Slides</span></a></li>
   <li><a href="/047-joe-meeks-tape-was-already-running/"><span class="ep-num">047</span><span class="ep-title">Joe Meek's Tape Was Already Running</span></a></li>
   <li><a href="/046-the-folk-tune-generator/"><span class="ep-num">046</span><span class="ep-title">The Folk Tune Generator</span></a></li>
