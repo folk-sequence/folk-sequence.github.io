@@ -4,6 +4,7 @@ title: "Your Guitar Is Already a Chord"
 episode: "049"
 topic: "Bitwig's Harmonic Split"
 description: "Your Guitar Is Already a Chord — companion essay for Folk Sequence 049"
+youtube: "https://youtu.be/Va1sDng5gcc"
 ---
 
 So here's the thing I kept thinking about while making this one. You play one note on a guitar — one string, one pitch — and you think you're hearing one note. You're not. You're hearing a stack.
