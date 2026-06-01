@@ -4,6 +4,7 @@ title: "The Tree Monster"
 episode: "050"
 topic: "chasing the Meris Enzo in Bitwig"
 description: "The Tree Monster — companion essay for Folk Sequence 050"
+youtube: "https://youtu.be/GO3aMyaqs2U"
 ---
 
 So I went looking for a synthesizer and I found a monster instead, and I want to tell you about it, because the monster turned out to be better than the thing I was looking for.
