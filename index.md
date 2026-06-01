@@ -7,12 +7,13 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <div class="hero"><img src="/assets/banner.jpg" alt="Folk Sequence"></div>
 
 <p class="intro">Companion essays for the daily Folk Sequence sessions.</p>
-<p class="intro-sub">Screen recordings of music creation in Bitwig Studio — folktronica and folk songs built from scratch in continuous takes, no narration, no edits, no cuts. Each video ships with a long-form essay that traces a single idea from first principles.</p>
+<p class="intro-sub">Screen recordings of music creation in Bitwig Studio — folktronica and folk songs built from scratch — a brief spoken intro, then the uninterrupted continuous take, no edits, no cuts. Each video ships with a long-form essay that traces a single idea from first principles.</p>
 <p class="intro-watch"><a href="https://www.youtube.com/@FolkSequence" target="_blank" rel="noopener">Watch the series on YouTube →</a></p>
 <p class="intro-watch"><a href="https://folksequence.substack.com/" target="_blank" rel="noopener">Subscribe on Substack →</a></p>
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/050-the-tree-monster/"><span class="ep-num">050</span><span class="ep-title">The Tree Monster</span></a></li>
   <li><a href="/049-your-guitar-is-already-a-chord/"><span class="ep-num">049</span><span class="ep-title">Your Guitar Is Already a Chord</span></a></li>
   <li><a href="/048-twelve-names-for-a-thing-that-slides/"><span class="ep-num">048</span><span class="ep-title">Twelve Names for a Thing That Slides</span></a></li>
   <li><a href="/047-joe-meeks-tape-was-already-running/"><span class="ep-num">047</span><span class="ep-title">Joe Meek's Tape Was Already Running</span></a></li>
