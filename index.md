@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/our-history/"><span class="ep-num">♪</span><span class="ep-title">Our History — making a song</span></a></li>
   <li><a href="/050-the-tree-monster/"><span class="ep-num">050</span><span class="ep-title">The Tree Monster</span></a></li>
   <li><a href="/049-your-guitar-is-already-a-chord/"><span class="ep-num">049</span><span class="ep-title">Your Guitar Is Already a Chord</span></a></li>
   <li><a href="/048-twelve-names-for-a-thing-that-slides/"><span class="ep-num">048</span><span class="ep-title">Twelve Names for a Thing That Slides</span></a></li>
