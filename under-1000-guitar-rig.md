@@ -3,7 +3,7 @@ layout: essay
 title: "A Whole Guitar Rig for Under $1,000"
 topic: "starting over with $1,000 and a producer's ears"
 description: "A Whole Guitar Rig for Under $1,000 — a Folk Sequence companion essay"
-youtube: ""
+youtube: "https://youtu.be/ywvdOTJ2PGY"
 ---
 
 Here's the game: you've got a thousand dollars, you're starting more or less from scratch, and you want a rig that can actually make records — not a wall of boxes, not a toy. What do you buy?
