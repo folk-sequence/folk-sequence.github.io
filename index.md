@@ -13,6 +13,7 @@ description: "Companion essays for the Folk Sequence daily Bitwig music producti
 <p class="intro-watch"><a href="https://www.patreon.com/cw/FolkSequence" target="_blank" rel="noopener">Support on Patreon →</a></p>
 
 <ul class="episode-list">
+  <li><a href="/the-man-who-listens-for-a-living/"><span class="ep-num">♪</span><span class="ep-title">The Man Who Listens for a Living</span></a></li>
   <li><a href="/under-1000-guitar-rig/"><span class="ep-num">♪</span><span class="ep-title">A Whole Guitar Rig for Under $1,000</span></a></li>
   <li><a href="/our-history/"><span class="ep-num">♪</span><span class="ep-title">Our History — making a song</span></a></li>
   <li><a href="/050-the-tree-monster/"><span class="ep-num">050</span><span class="ep-title">The Tree Monster</span></a></li>
